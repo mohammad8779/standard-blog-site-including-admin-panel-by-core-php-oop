@@ -1,0 +1,19 @@
+.headersection {background: #008000 none repeat scroll 0 0;}
+.icon a {background: #27A527 none repeat scroll 0 0;}
+.searchbtn input[type="text"] {border: 1px solid #21662B;background: #27A527;}
+.searchbtn input[type="submit"] {border: 1px solid #126E12;}
+input[type="submit"] {background: #27A527 none repeat scroll 0 0; border: 1px solid #27A527;}
+.searchbtn input[type="submit"]:hover{background: #5EDC5E  none repeat scroll 0 0;border: 1px solid #27A527;color:#fff;
+}
+.navsection {background: none repeat scroll 0 0 #45C545;}
+.navsection ul li {border-left: 1px solid #2FAF2F;border-right: 1px solid #007400;}
+.maincontent {background: #D7FFD7 none repeat scroll 0 0;}
+.samepost h2 a {color: #008000;}
+.readmore a {border: 1px solid #45C545;color: #2AAA2C;}
+.pagination a {background: #008000;border: 1px solid #008000;}
+.pagination a:hover{ background: #95E595;}
+.footersection {background: #008000}
+.footermenu ul li a {color: #7DFD82;}
+.samesidebar h2 {background: #45C545 none repeat scroll 0 0;border-bottom: 2px solid #5D895D;}
+.sidebar {background: #D7FFD7 none repeat scroll 0 0;}
+.contentsection {border: 1px solid #9DC59D;}
